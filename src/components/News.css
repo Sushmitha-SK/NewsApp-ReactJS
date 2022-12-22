@@ -1,0 +1,17 @@
+.newsTypeTitle {
+    position: absolute;
+    top: 168px;
+    background: #15B9C3;
+}
+
+.headlines {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 52px;
+    color: #FFFFFF;
+}
+
+.colcontainer {
+    margin-top: 272px;
+}
